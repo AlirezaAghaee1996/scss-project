@@ -1,0 +1,21 @@
+header nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    background-color: cornflowerblue;
+    padding: 0px 5%;
+}
+header nav ul{
+    display: flex;
+    gap: 20px ;
+
+}
+header nav ul li a {
+    color: whitesmoke;
+    font-size: 1.2em;
+}
+header nav h1{
+    font-size: 2em;
+    color: white;
+}
